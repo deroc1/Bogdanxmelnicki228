@@ -80,7 +80,7 @@
 .main__photo:nth-child(12){
 	grid-area: l;
 }
-@media screen and (max-width: 375px){
+@media screen and (max-width: 425px){
 	.categories{
 		flex-direction: row;
 		height: 700px;
